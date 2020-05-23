@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 107" width="106" height="107">
+	<defs>
+		<image width="58" height="68" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAABECAMAAADnTdarAAAAAXNSR0IB2cksfwAAAgRQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ggKGtAAAAKx0Uk5TAGiCfYB8JELv/6e9orDbxMrJx/SErEPGWkw9UfDpISO45AgHAfjMRU9LJjcxpK1KMoVxZECbqKOBEZM8u/sD0gQdz9N+4Ojl445QHyUQSPWyC9Hx+m7z7dQFDwy+0M79AvbF90nCwb9bFa8rMC4tLBREs/yxnZplj5TueeE+3dc/hohqkW+lcx7IBgkp3HDitcO5/ooKGTs0QZJYvN/NbZZNMy9OrtbA2meQnotWQBoAAAKDSURBVHic7dfpWxJBHAfwyfD4qilKppV0QSmVGkWZSWaXZWaXiIGVBaFhHh1q2mUZVpaZZvd9l/ZPNgtuMLvA7szTu/q+YPb5Pfthd2d2mIGQeSnzdcWQmkbYpGdAbzIVNEu3BLJZugDIyTVqJi/fRO1ChhYAi4ieFErXLVLQxbpoXviel7B0qS5qRLGZ2mVC1LR8BbBylQiFxboaWKOmJaU2m610bTK6jqynt1ympOVzY1eRhG4gpIKeYldQedhTklOykZ6ziaWOzVsqK8syt1ZpULKN2mr2WbUiU+IEtqeJ0ZodgLmKobVWVWpYunPucBewO4bu2Vu3T5W6/fXWGHqg4aCUxkOHgSPqHlbmqEyPRWtNrvAskmmz2VSsirvF/ueqxxXfmRN9Vo+3VRVv9IUl1SdORmfvqTYU6u9hJqfPwCdIG/0x9GxWoF2VQMe5+DQYSxP1cKs27YwvfR5tSs53davS1ZPgWVnKlf/0X6HBnt4LQvTipcuAq6+En/bLr/wAL5UWHXeuz02bcj56hZJBL53/Q8p1X5NeBVIj5WvAdR56A7gp14eBWxzUANyW6yNJlso4tB64I9ebgRAHHQXuyvVs4B4HvQ/4LZGypQlo4KBkDDA+kA4e0iXNqSFZOt4CPJpwpE88pivZOBclk9Ef3yktqaBPMB2B07TKR51wGZ72dY7Y25DPTfFMap9DhHZL7Qsh+lJqXwlRQoZeE68IzXgTAN4W+QWoPzI4LpEbpnP2nfTJS99TM1nrKQhvifhoCBiV2g/AR05KPn2OtF90/Hn5CwvHV34qb7kc/JRIG71vwPcfU5xpH5O2lx2Jtmla+UlmROksCQ7+GhBIf6j3N/SlAAENRKZ+AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff9600 } 
+	</style>
+	<path id="Эллипс 2 копия" class="shp0" d="M53 1C81.72 1 105 24.51 105 53.5C105 82.49 81.72 106 53 106C24.28 106 1 82.49 1 53.5C1 24.51 24.28 1 53 1Z" />
+	<use id="Слой 50" href="#img1" x="24" y="20" />
+</svg>
